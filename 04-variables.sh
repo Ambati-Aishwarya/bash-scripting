@@ -12,4 +12,5 @@
 #how to print the variable: $VAR_NAME or ${VAR_NAME}
 
 a=10
-echo -e "printing the value of a $a"
+echo  "printing the value of a $a"
+echo  "printing the value of a $b"
