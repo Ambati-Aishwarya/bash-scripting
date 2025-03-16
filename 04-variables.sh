@@ -21,3 +21,5 @@ echo 'printing the value of a ${a}'
 
 TODAYS_DATE=$(date +%F)
 echo "todays date is $TODAYS_DATE"
+
+echo "number of users logged in to the system = $(who |wc -l)"
