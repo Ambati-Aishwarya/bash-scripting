@@ -16,4 +16,4 @@ echo "name of the project is $PROJECT"
 echo "Number of arguments you supplied to the script = $#"  #prints the number of arguements used in the script
 #echo "exit status of last command = $?"                    #prints the exit status of the last command
 #echo "arguments in the script are $*"                      #prints the arguments in the script
-#echo "arguments in the script are $@"                       #prints the arguments in the script
+echo "arguments in the script are $@"                       #prints the arguments in the script
