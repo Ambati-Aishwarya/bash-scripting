@@ -12,4 +12,4 @@ echo Devsecops
 # /r: move the cursor to the beginning of the line
 
 echo -e "hi \n hello \n welcome \n Devsecops"
-echo -e "hi \naaaaa\n\tbbbbb\n\t\tccccc\n\t\t\tddddd"
+echo -e "hi \n\taaaaa\n\tbbbbb\n\t\tccccc"
