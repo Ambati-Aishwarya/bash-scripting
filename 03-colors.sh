@@ -14,4 +14,4 @@
 #syntax: echo -e "\e[COL-CODEmMESSAGE"
 
 #echo -e "\e[colorcode MSG \e[0m]"
-echo -e "\e[32m I am printing green color \e[0m]"
+echo -e "\e[32m I am printing green color \e[0m"
