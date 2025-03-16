@@ -10,6 +10,7 @@ PROJECT=$2
 echo "value of a is $a"
 echo "scriptName is $0"
 echo "name of the team is $TEAM"
+echo "name of the project is $PROJECT"
 
 #echo $0
 #echo "Number of arguments you supplied to the script = $#"  #prints the number of arguements used in the script
