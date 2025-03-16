@@ -22,6 +22,6 @@ echo -e "\e[34m I am printing blue color \e[0m"
 #printing with background color
 #echo -e "\e[backgroud;colorcodem Message \e[0m"
 
-echo -e "\e[43;31printing red on yelloe color \e[0m"
+echo -e "\e[43;31mprinting red on yellow color \e[0m"
 
 
