@@ -6,7 +6,7 @@ echo "05-specialVariables.sh"
 
 a=1000
 TEAM=$1
-PROJECT =$2
+PROJECT=$2
 echo "value of a is $a"
 echo "scriptName is $0"
 
