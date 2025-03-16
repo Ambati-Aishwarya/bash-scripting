@@ -10,8 +10,8 @@ PROJECT=$2
 echo "value of a is $a"
 echo "scriptName is $0"
 
-echo $0
-echo "Number of arguments you supplied to the script = $#"  #prints the number of arguements used in the script
-echo "exit status of last command = $?"                    #prints the exit status of the last command
-echo "arguments in the script are $*"                      #prints the arguments in the script
-echo "arguments in the script are $@"                       #prints the arguments in the script
+#echo $0
+#echo "Number of arguments you supplied to the script = $#"  #prints the number of arguements used in the script
+#echo "exit status of last command = $?"                    #prints the exit status of the last command
+#echo "arguments in the script are $*"                      #prints the arguments in the script
+#echo "arguments in the script are $@"                       #prints the arguments in the script
