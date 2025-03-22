@@ -5,3 +5,6 @@
 #1. input redirectors (<) we can use this to take the inputs from the file: < ex: sudo mysql </tmp/studentapp.sql
 #2. output redirectors (>> or >) we can use this to give the outputs to the file: . or 1> or >> or &>(>> appends the output to the file, > overwrites the output to the file, &> appends the output to the file)
 #2. output redirectors
+standard output: 1> or >> (append)
+standard error: 2> or 2>>
+both standard output and standard error: &> or &>>
