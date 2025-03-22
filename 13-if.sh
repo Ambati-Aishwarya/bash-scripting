@@ -18,6 +18,7 @@
     if [ "$ACTION" == "start" ];
     then
         echo "starting the service"
+        
     elif [ "$ACTION" == "stop" ];
     then
         echo "stopping the service"
