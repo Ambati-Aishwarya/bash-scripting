@@ -14,10 +14,8 @@ done
 
 echo "demo on while loop"
 count =1
-while[$count -le 5];do
+while[$count -le 5]; 
+do
     echo "value of count is $count"
     count = $((count+1))
-    if(($count -gt 10));then
-        break
-    fi
-done
+ done
