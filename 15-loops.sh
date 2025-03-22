@@ -17,5 +17,5 @@ count =1
 while[$count -le 5]
 do
     echo "value of count is $count"
-    count = $((count+1))
+    ((count++))
  done
