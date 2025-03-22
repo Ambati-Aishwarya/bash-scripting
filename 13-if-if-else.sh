@@ -2,7 +2,7 @@
 
  #   echo -e "demo on if conditions"
 
-  #  ACTION=$1
+   ACTION=$1
    # if [ "$ACTION" == "start" ];
    # then                       #the commands will be only executed if condition is true
     #    echo "starting the service"
@@ -22,6 +22,7 @@
     elif [ "$ACTION" == "stop" ];
     then
         echo "stopping the service"
+
     elif [ "$ACTION" == "restart" ];
     then
         echo "restarting the service"
