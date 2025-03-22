@@ -8,7 +8,7 @@
         echo "starting the service"
     else
         echo  "valid arguements are start"
-        echo  -e "ex: \n\t \e[31m bash $0 start \e[0m"    
+        echo  -e "ex: \n\t \e[33m bash $0 start \e[0m"    
     
     fi
 
