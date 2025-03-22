@@ -4,6 +4,10 @@
 #1.for loop  [when we know how many times we need to execute then we can use for loop]
 #2.while loop [when we dont know how many times to be executed ,we use this and while only runs if the condition is type
 
-for var in a b c d;do
-    echo "value is $var"
+#for var in a b c d;do
+   # echo "value is $var"
+#done
+for i in 1 2 3 4 5;
+do
+    echo "value is $i"
 done
