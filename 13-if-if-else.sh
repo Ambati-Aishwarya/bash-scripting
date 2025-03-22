@@ -26,7 +26,7 @@
     then
         echo "restarting the service"
     else
-        echo "valid arguements are start/stop/restart"
+        echo "valid arguements are start 0r stop or restart"
         echo -e "ex: \n\t \e[33m bash $0 start \e[0m"
     fi
    
