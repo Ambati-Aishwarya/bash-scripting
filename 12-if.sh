@@ -5,7 +5,7 @@
     ACTION=$1
     if [ "$ACTION" == "start" ];
     then
-        echo -e "starting the service"
+        echo "starting the service"
     
     fi
 
