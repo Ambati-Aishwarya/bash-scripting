@@ -8,7 +8,7 @@
         echo "starting the service"
     else
         echo  "valid arguements are start"
-        echo  -e "ex:bash #0 start"    
+        echo  -e "ex:bash $0 start"    
     
     fi
 
