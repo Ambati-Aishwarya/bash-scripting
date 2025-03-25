@@ -14,7 +14,7 @@ done
 
 echo "demo on while loop"
 count =1
-while [ $count -lt 5]
+while [ $count -le 5 ]
 do
   echo "Count is: $count"
   ((count++)) # Increment the count
